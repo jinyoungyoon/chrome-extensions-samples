@@ -1,0 +1,5 @@
+
+
+크롬 프로필 생성
+크롬 확장 테스트를 위해 새로운 프로필 열기
+start chrome.exe --profile-directory="Profile_1"
